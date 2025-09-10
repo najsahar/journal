@@ -3,7 +3,6 @@ Journals for Modules
 view screenshots in file
 
 ## Lab 1
-**Screenshots:** Available in [screenshots/Lab1](./screenshots/Lab1)  
 **Lessons Learned:**
 - Learned how to install Git and verify the installation with `git --version`.
 - Explored Git help commands (`git help init`, `git init -h`) to understand documentation options.
@@ -11,7 +10,14 @@ view screenshots in file
 - Learned how to view all settings using `git config -l`.
 
 ## Lab 2
-**Screenshots:** Available in [screenshots/Lab2](./screenshots/Lab2)  
+### Screenshots
+![Lab2 Screenshot1](Picture1.png)  
+![Lab2 Screenshot2](Picture2.png)  
+![Lab2 Screenshot3](Picture3.png)  
+![Lab2 Screenshot4](Picture4.png)  
+![Lab2 Screenshot5](Picture5.png)  
+![Lab2 Screenshot6](Picture6.png)  
+
 **Lessons Learned:**
 - Practiced creating a repository with `git init`.
 - Learned the difference between untracked, staged, and committed files using `git status`.
@@ -21,7 +27,18 @@ view screenshots in file
 ---
 
 ## Lab 3
-**Screenshots:** Available in [screenshots/Lab3](./screenshots/Lab3)  
+![Lab3 Screenshot1](Picture7.png)  
+![Lab3 Screenshot2](Picture8.png)  
+![Lab3 Screenshot3](Picture9.png)  
+![Lab3 Screenshot4](Picture10.png)  
+![Lab3 Screenshot5](Picture11.png)  
+![Lab3 Screenshot6](Picture12.png)  
+![Lab3 Screenshot7](Picture13.png)  
+![Lab3 Screenshot8](Picture14.png)  
+![Lab3 Screenshot9](Picture15.png)  
+![Lab3 Screenshot10](Picture16.png)  
+![Lab3 Screenshot11](Picture17.png)  
+![Lab3 Screenshot12](Picture18.png)  
 **Lessons Learned:**
 - Used `git commit -am` to quickly stage and commit changes.
 - Viewed commit history with `git log -p`, `git show`, and `git log --stat`.
