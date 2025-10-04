@@ -59,10 +59,6 @@ This milestone taught me the **full Git workflow** from setup to file management
 - I saw how GitHub visually displays branch merges.  
 - I practiced resolving merge conflicts.  
 
-**Screenshots:**  
-- ![Branch Creation Screenshot](add-link-here)  
-- ![Merge Example Screenshot](add-link-here)  
-
 **Reflections:**  
 - **Difficulties:** Merge conflicts were confusing at first.  
 - **Surprises:** The one-line log (`git log --oneline`) makes it easy to track commits.  
@@ -77,12 +73,8 @@ This milestone taught me the **full Git workflow** from setup to file management
 
 **What I Learned:**  
 - I set up a GitHub remote repo and linked it with my Lab 4 repo.  
-- I used `git remote add origin` and `git push -u origin main`.  
 - I generated a PAT since GitHub no longer accepts passwords for Git pushes.  
 
-**Screenshots:**  
-- ![Repo Setup Screenshot](add-link-here)  
-- ![PAT Authentication Screenshot](add-link-here)  
 
 **Reflections:**  
 - **Difficulties:** Remembering to copy/save the PAT the first time.  
@@ -102,9 +94,6 @@ This milestone taught me the **full Git workflow** from setup to file management
 | Free private repos | Unlimited (with free plan) | Unlimited (with free plan) |  
 | Integrations | GitHub Actions for CI/CD | Jira/Atlassian ecosystem |  
 
-**Screenshots:**  
-- ![Bitbucket Repo Creation Screenshot](add-link-here)  
-- ![Local Push to Bitbucket Screenshot](add-link-here)  
 
 **Reflections:**  
 - **Difficulties:** Getting used to Bitbucket’s different interface.  
